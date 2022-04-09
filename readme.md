@@ -1,1 +1,0 @@
-The Odin Project's first project (html basics)
